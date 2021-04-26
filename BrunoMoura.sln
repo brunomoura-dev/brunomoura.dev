@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunoMoura.UI", "src\BrunoMoura.UI\BrunoMoura.UI.csproj", "{E926DD60-92F1-4766-82B2-21D73C16CE87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunoMoura.App", "src\BrunoMoura.App\BrunoMoura.App.csproj", "{50A345EF-E665-4050-872E-9E5D09E57328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunoMoura.Data", "src\BrunoMoura.Data\BrunoMoura.Data.csproj", "{B7122B9F-1D1C-4DE4-A622-CD40DCB6C21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E926DD60-92F1-4766-82B2-21D73C16CE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E926DD60-92F1-4766-82B2-21D73C16CE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E926DD60-92F1-4766-82B2-21D73C16CE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E926DD60-92F1-4766-82B2-21D73C16CE87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A345EF-E665-4050-872E-9E5D09E57328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A345EF-E665-4050-872E-9E5D09E57328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A345EF-E665-4050-872E-9E5D09E57328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A345EF-E665-4050-872E-9E5D09E57328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7122B9F-1D1C-4DE4-A622-CD40DCB6C21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7122B9F-1D1C-4DE4-A622-CD40DCB6C21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7122B9F-1D1C-4DE4-A622-CD40DCB6C21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7122B9F-1D1C-4DE4-A622-CD40DCB6C21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
